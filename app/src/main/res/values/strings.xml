@@ -16,7 +16,7 @@
     <string name="answer3_1">Himalayan twist</string>
     <string name="answer3_2">British bend</string>
     <string name="answer3_3">Heimlich maneuver</string>
-    <string name="answer3_4">Gut punch</string>
+    <string name="answer3_4">gut punch</string>
 
     <string name="question4">4. Your thumb is the same length as your...</string>
     <string name="answer4_1">eye</string>
@@ -25,10 +25,16 @@
     <string name="answer4_4">nose</string>
 
     <string name="question5">5. What is pneumonoultramicroscopicsilicovolcanoconiosis?</string>
-    <string name="answer5_1">A parasite</string>
-    <string name="answer5_2">A disorder caused by the lack of sleep</string>
-    <string name="answer5_3">A lung disease caused by inhaling very fine ash and sand dust</string>
-    <string name="answer5_4">Fear of long words</string>
+    <string name="answer5_1">a parasite</string>
+    <string name="answer5_2">a disorder caused by the lack of sleep</string>
+    <string name="answer5_3">a lung disease caused by inhaling very fine ash and sand dust</string>
+    <string name="answer5_4">fear of long words</string>
+
+    <string name="question6">6. Which birth control methods are 99% effective (more than one answers are correct)?</string>
+    <string name="answer6_1">birth control implant</string>
+    <string name="answer6_2">condom</string>
+    <string name="answer6_3">withdrawal (pull out method)</string>
+    <string name="answer6_4">vasectomy / sterilization</string>
 
     <string name="check">Check answers</string>
 

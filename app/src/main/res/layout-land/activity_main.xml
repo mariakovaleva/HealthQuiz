@@ -35,8 +35,7 @@
             android:layout_height="wrap_content"
             android:baselineAligned="false"
             android:hint="@string/question1_hint"
-            android:inputType="number"
-            android:maxLength="4"
+            android:inputType="textCapWords"
             android:textColor="@color/colorAnswer"
             android:textColorHint="@color/buttonTint" />
 
